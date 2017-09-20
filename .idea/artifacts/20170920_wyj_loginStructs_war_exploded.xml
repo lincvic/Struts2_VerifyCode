@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="20170920_wyj_loginStructs:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/20170920_wyj_loginStructs_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="20170920_wyj_loginStructs/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="20170920_wyj_loginStructs" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

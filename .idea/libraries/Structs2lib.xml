@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Structs2lib">
+    <CLASSES>
+      <root url="file:///usr/local/Structs2lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///usr/local/Structs2lib" recursive="false" />
+  </library>
+</component>
